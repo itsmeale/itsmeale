@@ -1,6 +1,6 @@
-### Hello World!
+### About me
 ---
-🔭 I'm trying to find ways to describe reality through numbers.
+🔭 decoding reality
 
 <!--
 **itsmeale/itsmeale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
