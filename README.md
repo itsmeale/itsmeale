@@ -1,18 +1,7 @@
-### About me
----
-🔭 decoding
 
-<!--
-**itsmeale/itsmeale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# It's me Ale
+[![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Farias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alefarias/)](https://www.linkedin.com/in/ale-farias/)
+[![Gmail Badge](https://img.shields.io/badge/-0800alefarias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=0800alefarias@gmail.com)](mailto:0800alefarias@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 Trying to find ways to describe reality through numbers.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![flock](https://i.insider.com/5672c9ec2340f83b008b6634?width=400&format=gif)
+> *Is the world random, or simply chaotic?*
